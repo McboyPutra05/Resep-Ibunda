@@ -60,31 +60,32 @@ export const mockRecipes = [
   },
   {
     id: 3,
-    name: "Chicken Katsu",
+    name: "ChickenKatsu",
     description: "A healthy and delicious breakfast option packed with protein and good fats.",
-    image: "./assets/Chicken Katsu.jpeg",
+    image: "/assets/ChickenKatsu.jpeg",
     time: 20,
     servings: 2,
     difficulty: "Easy",
-    // ✅ REVISI 2: Mengubah string menjadi array
     categories: ["Breakfast", "Easy", "Dinner"],
     ingredients: [
-      "2 slices whole grain bread",
-      "1 ripe avocado",
-      "2 eggs",
-      "1 tbsp vinegar",
-      "Salt and pepper to taste",
-      "Red pepper flakes (optional)"
+      "2 pieces of boneless chicken breast (about 300-400 grams)",
+      "Salt to taste",
+      "Black pepper to taste",
+      "1 egg",
+      "50 grams of wheat flour",
+      "100 grams of breadcrumbs (panko)",
+      "Enough cooking oil (for frying)"
     ],
     instructions: [
-      "Toast the bread until golden and crisp.",
-      "Mash the avocado and spread evenly on toast.",
-      "Bring a pot of water to a gentle simmer and add vinegar.",
-      "Crack eggs into separate small cups, then gently slide into water.",
-      "Poach for 3-4 minutes until whites are set but yolks are still runny.",
-      "Remove eggs with slotted spoon and place on avocado toast.",
-      "Season with salt, pepper, and red pepper flakes if desired."
+      "Flatten the chicken breast using a meat mallet or the back of a knife until it is an even thickness (about 1 cm).",
+      "Sprinkle both sides of the chicken with a little salt and black pepper. Let sit for 10 minutes.",
+      "Coat the chicken pieces with flour, making sure they are evenly coated, then pat to remove excess flour.",
+      "Dip the chicken into the beaten egg until completely coated.",
+      "Finally, coat the chicken with breadcrumbs (panko), pressing gently so that the panko sticks well.",
+      "Heat cooking oil in a pan over medium heat (the oil should be enough for deep frying, about 2-3 cm).",
+      "AnRemove and drain on oil paper to remove excess oil.",
+      "Potong ayam katsu menjadi irisan setebal 1-2 cm."
     ],
-    notes: "For extra flavor, add crumbled feta cheese or cherry tomatoes."
+    notes: "Serve on a plate with shredded cabbage, white rice, and tonkatsu sauce on the side."
   }
 ];
