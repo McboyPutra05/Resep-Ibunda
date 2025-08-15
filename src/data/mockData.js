@@ -33,7 +33,7 @@ export const mockRecipes = [
     id: 2,
     name: "Avocado Toast with Poached Egg",
     description: "A healthy and delicious breakfast option packed with protein and good fats.",
-    image: "/assets/Avocado Toast with Poached Egg.jpeg",
+    image: "/assets/Avocado Toast with Poached Egg.jpg",
     time: 15,
     servings: 2,
     difficulty: "Easy",
