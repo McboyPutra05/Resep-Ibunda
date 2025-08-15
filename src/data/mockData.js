@@ -60,7 +60,7 @@ export const mockRecipes = [
   },
   {
     id: 3,
-    name: "ChickenKatsu",
+    name: "Chicken Katsu",
     description: "A healthy and delicious breakfast option packed with protein and good fats.",
     image: "/assets/ChickenKatsu.jpeg",
     time: 20,
